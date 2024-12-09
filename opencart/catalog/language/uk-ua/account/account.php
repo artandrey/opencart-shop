@@ -1,27 +1,26 @@
 <?php
 // Heading
-$_['heading_title']      = 'Особистий кабінет';
+$_['heading_title']       = 'Мій Кабінет';
 
 // Text
-$_['text_account']       = 'Особистий кабінет';
-$_['text_my_account']    = 'Обліковий запис';
-$_['text_my_orders']     = 'Замовлення';
-$_['text_my_affiliate']  = 'Партнерській розділ';
-$_['text_my_newsletter'] = 'Підписка';
-$_['text_edit']          = 'Контактна інформація';
-$_['text_password']      = 'Зміна пароля';
-$_['text_address']       = 'Зміна адрес';
-$_['text_credit_card']   = 'Керування банківськими картками';
-$_['text_account_wishlist'] = 'Керування списком бажань';
-$_['text_order']         = 'Історія замовлень';
-$_['text_download']      = 'Файли для завантаження';
-$_['text_reward']        = 'Бонусні бали';
-$_['text_return']        = 'Запити на повернення товару';
-$_['text_transaction']   = 'Історія платежів';
-$_['text_newsletter']    = 'Підписатись або відмовитись від підписки';
-$_['text_recurring']     = 'Регулярні платежі';
-$_['text_transactions']  = 'Операції';
-$_['text_affiliate_add'] = 'Реєстрація партнерського облікового запису';
-$_['text_affiliate_edit'] = 'Керування партнерською інформацією';
-$_['text_tracking']      = 'Код відстеження партнерів';
-$_['text_wishlist']      = 'Список бажань';
+$_['text_account']        = 'Кабінет';
+$_['text_my_account']     = 'Мій Кабінет';
+$_['text_my_orders']      = 'Мої Замовлення';
+$_['text_my_affiliate']   = 'Партнерський Кабінет';
+$_['text_my_newsletter']  = 'Розсилка';
+$_['text_edit']           = 'Редагувати інформацію облікового запису';
+$_['text_password']       = 'Змінити пароль';
+$_['text_address']        = 'Змінити адреси';
+$_['text_credit_card']    = 'Керування збереженими кредитними картками';
+$_['text_wishlist']       = 'Список бажань';
+$_['text_order']          = 'Історія замовлень';
+$_['text_download']       = 'Завантаження';
+$_['text_reward']         = 'Бонусні бали';
+$_['text_return']         = 'Повернення';
+$_['text_transaction']    = 'Транзакції';
+$_['text_newsletter']     = 'Підписка на розсилку';
+$_['text_recurring']      = 'Регулярні платежі';
+$_['text_transactions']   = 'Транзакції';
+$_['text_affiliate_add']  = 'Зареєструватися в партнерській програмі';
+$_['text_affiliate_edit'] = 'Редагувати партнерську інформацію';
+$_['text_tracking']       = 'Партнерський код відстеження';
