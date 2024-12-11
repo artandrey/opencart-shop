@@ -89,7 +89,7 @@ class UrlValidatorTest extends AbstractConstraintValidatorTest
             array('http://symfony.com/#?'),
             array('http://www.symfony.com/doc/current/book/validation.html#supported-constraints'),
             array('http://very.long.domain.name.com/'),
-            array('http://localhost/'),
+            array('https://3915-176-37-194-15.ngrok-free.app/'),
             array('http://myhost123/'),
             array('http://127.0.0.1/'),
             array('http://127.0.0.1:80/'),

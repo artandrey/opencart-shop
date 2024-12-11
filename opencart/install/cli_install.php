@@ -18,7 +18,7 @@
 //                               --username admin \
 //                               --password admin \
 //                               --email youremail@example.com \
-//                               --http_server http://localhost/opencart/
+//                               --http_server https://3915-176-37-194-15.ngrok-free.app/opencart/
 //
 
 ini_set('display_errors', 1);
@@ -71,7 +71,7 @@ function usage() {
 		'--username', 'admin',
 		'--password', 'admin',
 		'--email', 'youremail@example.com',
-		'--http_server', 'http://localhost/opencart/'
+		'--http_server', 'https://3915-176-37-194-15.ngrok-free.app/opencart/'
 	));
 	echo 'php cli_install.php install ' . $options . "\n\n";
 }

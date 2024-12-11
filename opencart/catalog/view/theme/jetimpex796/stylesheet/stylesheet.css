@@ -12417,16 +12417,6 @@ footer .address-block address p a:hover {
   margin: 0;
   position: relative;
 }
-.copyright p:before {
-  position: relative;
-  font-size: 20px;
-  color: #375ea1;
-  margin-right: 7px;
-  line-height: 28px;
-  content: '\eabf';
-  font-family: 'Linearicons';
-  display: inline-block;
-}
 
 /*========================================================
                     Responsive  Footer

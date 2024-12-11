@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/admin/');
-define('HTTP_CATALOG', 'http://localhost/');
+define('HTTP_SERVER', 'https://3915-176-37-194-15.ngrok-free.app/admin/');
+define('HTTP_CATALOG', 'https://3915-176-37-194-15.ngrok-free.app/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/admin/');
-define('HTTPS_CATALOG', 'http://localhost/');
+define('HTTPS_SERVER', 'https://3915-176-37-194-15.ngrok-free.app/admin/');
+define('HTTPS_CATALOG', 'https://3915-176-37-194-15.ngrok-free.app/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/admin/');
